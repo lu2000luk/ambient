@@ -8,7 +8,7 @@ build:
 
 run:
     cmake --build build
-    ./build/MyApp # Remember to change if you rename your executable
+    ./build/ambient
 
 [linux]
 clean:
